@@ -21,3 +21,6 @@ This project was developed as part of my **learning journey** to master modern s
 
 
 As this is a learning project, I am very open to suggestions, constructive criticism, and feedback. Whether it's about the code structure, UI/UX, or potential features
+
+## 📸 Preview
+![App Preview](./screenshots/ss_kanban_board.png)
