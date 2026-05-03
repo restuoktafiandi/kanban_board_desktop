@@ -1,0 +1,19 @@
+# Python environment
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Database
+*.db
+*.sqlite3
+
+# Desktop App / IDE
+.vscode/
+.idea/
+.DS_Store (untuk Mac)
+
+# Build & Distribution
+dist/
+build/
+*.spec
